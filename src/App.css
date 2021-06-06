@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  width: 80%;
+  margin: 0 auto;
+  background: #f0eeeb;
+  padding: 40px 70px;
+  line-height: 50px;
+  font-size: 25px;
+}
+
+.input-text {
+  width: 400px;
+  padding: 6px 3px;
+  outline: none;
+}
+
+.btn-click {
+  margin-top: 5px;
+  padding: 8px 8px;
+  border-radius: 12px;
+  border: 1px solid #9595d4;
+  background: #9595d4;
+  font-size: 18px;
+  color: white;
+  outline: none;
+}
+
+.btn-click:hover {
+  color: #9595d4;
+  background: #ccccdd;
+  cursor: pointer;
+  outline: none;
+}
